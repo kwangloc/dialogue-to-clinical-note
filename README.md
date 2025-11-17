@@ -1,4 +1,4 @@
-# dialogue_to_soap_note
+# dialogue-to-soap-note
 
 A research repository to convert clinical dialogues into structured SOAP notes using a pipeline of speech-to-text, diarization, role classification, and summarization (fine-tuned LLMs).
 
